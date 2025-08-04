@@ -24,11 +24,6 @@ Still quite new to Github.
       alt="GitRoll Profile Badge"
       style="width: 400px; height: auto;"/>
   </a>
-
-  <img 
-    src="https://files.catbox.moe/3z277p.gif" 
-    alt="Dancing Fool"
-    style="width: 200px; height: auto; margin-left: 10px;" />
 </div>
 
 ![Itsratcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsratcha&show_icons=true&theme=radical)
