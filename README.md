@@ -15,7 +15,8 @@ Still quite new to Github.
 ---
 [💼 Linkedin](https://www.linkedin.com/in/ratchanon-moungwichean-18913b376/) || [🌐 Discord](https://discordapp.com/users/its_ratcha) || [📧 Email](mailto:RatchaM.Work@gmail.com)
 
----<div style="display: flex; align-items: center; gap: 20px;">
+---
+<div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://gitroll.io/profile/uNFcN077G0fc3eBDJyqvPczcd0mk2" target="_blank">
     <img 
       src="https://gitroll.io/api/badges/profiles/v1/uNFcN077G0fc3eBDJyqvPczcd0mk2?theme=dark" 
