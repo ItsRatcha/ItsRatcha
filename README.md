@@ -1,19 +1,24 @@
 > *When you have the chance, take it. Laugh, sing, dance. Don’t allow the night to end.*
-> — Live Fast
-# Summary
+> — Magic: The Gathering
+
+<h1 align="center">Hi There, Hello👋</h1>
+Ratcha, or Daniel. Whichever you prefer.
+
+Full name: Ratchanon Moungwichean.
+
+
+Undergraduate student from [TU](https://tu.ac.th/). Bachelor in Computer Engineering.
+
+Still quite new to Github.
+
+📝 Learning - Frameworks, React.
+
 ---
-Hi, I'm @ItsRatcha and this is my Github README page. I am an undergraduate student in computer engineering.
-### 🌱 I’m currently learning ...
-Java, Database and CSS.
-Making custom wallpaper in Wallpaper Engine
-Making Plugin in Obsidian
-### 💞️ I’m looking to collaborate on ...
-Since I'm still quite a beginner I'd love to any work that would further my interest in the career of computer engineering.
+[💼 Linkedin](https://www.linkedin.com/in/ratchanon-moungwichean-18913b376/) || [🌐 Discord](https://discordapp.com/users/its_ratcha) || [📧 Email](mailto:RatchaM.Work@gmail.com)
 
-It would also be nice if my Github page can act as my portfolio for when I graduated.
-### 📫 How to reach me ...
-RatchaM.work@gmail.com
-or its_ratcha on Discord
+---
+<a href="https://gitroll.io/profile/uNFcN077G0fc3eBDJyqvPczcd0mk2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uNFcN077G0fc3eBDJyqvPczcd0mk2?theme=dark" alt="GitRoll Profile Badge"/></a>
+![Itsratcha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsratcha&show_icons=true&theme=radical)
 
-### ⚡ Fun fact: ...
-- I once ate 2 big Macs, extra large fries, nuggets and chicken pop, 2 pies, a medium soda and a large soda in one sitting.
+---
+
