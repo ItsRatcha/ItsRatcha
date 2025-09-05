@@ -10,7 +10,7 @@ Undergraduate student from [TU](https://tu.ac.th/). Bachelor in Computer Enginee
 
 Still quite new to Github.
 
-📝 Learning - Frameworks, Docker, OOP
+📝 Learning - Frameworks, N8N, OOP
 
 ---
 [💼 Linkedin](https://www.linkedin.com/in/ratchanon-moungwichean-18913b376/) || [🌐 Discord](https://discordapp.com/users/its_ratcha) || [📧 Email](mailto:RatchaM.Work@gmail.com)
